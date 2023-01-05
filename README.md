@@ -4,7 +4,7 @@
 <p> Atualmente estou no segundo período da minha graduação em análise e desenvolvimento de sistemas (ADS).<p>
 <p> Sou técnico em manutenção de aeronaves e atualmente desempenho esta função na LATAM Airlines Brasil..<p>
 
-<p> Em meados de 2021/2022, adquiri interesse na área de tecnologia, criando identificação com a profissão de desenvolvedor e, desde então, tenho me empenhado para adquirir conhecimento e skills necessárias para ibgressar neste novo desafio.<p>
+<p> Em meados de 2021/2022, adquiri interesse na área de tecnologia, criando identificação com a profissão de desenvolvedor e, desde então, tenho me empenhado para adquirir conhecimento e skills necessárias para ingressar neste novo desafio.<p>
 
 ### Contatos 
 
