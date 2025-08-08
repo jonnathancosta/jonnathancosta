@@ -1,6 +1,6 @@
-## 👋 Olá! Eu sou Jonnathan Costa  
+## 👋 Olá! Eu sou o Jonnathan,  
 
-Sou **Engenheiro de Dados e Desenvolvedor** com experiência em construir pipelines de dados escaláveis, integrar múltiplas fontes de informação e criar soluções em nuvem utilizando **Google Cloud Platform** e **Microsoft Azure**.  
+**Engenheiro de Dados** com experiência em construir pipelines de dados escaláveis, integrar múltiplas fontes de informação e criar soluções em nuvem utilizando **Google Cloud Platform** e **Microsoft Azure**.  
 Tenho sólida base em **Python, PySpark, SQL, Power BI** e também experiência com **Java, JavaScript, TypeScript, Node.js, React e Spring Boot**, o que me permite desenvolver desde a arquitetura de dados até aplicações que consomem e apresentam essas informações.  
 
 💡 Antes de ingressar na tecnologia, atuei como **Técnico em Manutenção de Aeronaves** na LATAM Airlines Brasil, onde desenvolvi habilidades essenciais como atenção a detalhes, trabalho sob pressão e foco em qualidade — que hoje aplico na engenharia e no desenvolvimento de soluções de dados.  
